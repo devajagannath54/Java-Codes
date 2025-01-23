@@ -6,6 +6,8 @@ public class odd {
     //ternary operator
         String chec = ((num%2)==0) ? "even":"odd";
         System.out.print(chec);
+
+    //hii
     }
     
 }
